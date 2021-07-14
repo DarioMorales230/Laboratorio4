@@ -142,6 +142,7 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 5. VIDEO DE YOUTUBE
 
+https://youtu.be/LRNy5qodgCA
 
 6. CONCLUSIONES
 
