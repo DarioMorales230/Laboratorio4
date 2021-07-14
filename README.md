@@ -25,6 +25,14 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 4. RESOLUCION DEL LABORATORIO EN FORMA MATEMATICA
 
+•	Para el desarrollo de la siguiente practica lo primero que vamos a realizar es un análisis de los componentes eléctricos que tiene el circuito, que tipo de circuito es y el teorema que vayamos a utilizar para su respectiva resolución.
+
+•	Como hemos logrado apreciar el circuito es mixto (resistencias o fuentes conectadas en serie y paralelo) conformado por 4 resistencias tambien nos damos cuenta que existen dos fuentes de voltaje y por ultimo tenemos una placa de pruebas (Protoboard) en donde realizaremos las diferentes conexiones, los valores de cada resistencia que se encontraran en el circuito serán los siguientes: 
+
+![Captura de pantalla (1619)](https://user-images.githubusercontent.com/85144847/125576673-036ca238-f7b0-4c93-8852-9060fba79fb6.png)
+
+
+
 
 5. VIDEO DE YOUTUBE
 
