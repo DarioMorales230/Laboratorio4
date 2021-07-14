@@ -25,7 +25,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 4. RESOLUCION DEL LABORATORIO EN FORMA MATEMATICA
 
-•	Para el desarrollo de la siguiente presente lo primero que vamos a realizar es un análisis de los componentes eléctricos que tiene el siguiente circuito electrico, que tipo de circuito es y el teorema que vayamos a utilizar para su respectiva resolución.
+•	Para el desarrollo de la siguiente presente lo primero que vamos a realizar es un análisis de los componentes eléctricos que tiene el siguiente circuito electrico, que tipo de circuito es, el teorema que vayamos a utilizar para su respectiva resolución y que es lo que nos pide encontrar.
 
 ![Captura de pantalla (1620)](https://user-images.githubusercontent.com/85144847/125577883-8502d84e-8437-4b3b-b321-d6f5fe2e302d.png)
 
@@ -36,6 +36,28 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 •	Para la presente practica el teorema que vamos a utilizar para su resolución es el de Superposición y para ello debemos tener algo muy en cuenta acerca del teorema y es que: 
 
 El voltaje o corriente a través de cualquier elemento del circuito puede obtenerse sumando algebraicamente todos los voltajes o corrientes individuales generados por cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.
+
+•	Para la finalizacion del analisis del circuito electrico concluiremos que esta practica numero 4 nos pide encontrar Ix y VA del circuito señalado.
+
+•	Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/125579381-19bcf863-4775-436d-bc12-f3a89419f120.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 5. VIDEO DE YOUTUBE
