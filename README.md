@@ -85,9 +85,17 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 •	Como podemos darnos cuenta en este caso Ix = 25.53 mA porque al momento de cortocircuitar la fuente de 20 voltios la resistencia de 470 ohmios no se elimino y por donde pasa la corriente Ix es por esa resistencia.
 
+• Por ultimo según el teorema de superposición procedemos a sumar o restar los resistores o voltajes que se calcularon en el Caso A y B para dar con un valor total que represente al mismo resistor dentro del circuito original.
 
+![Captura de pantalla (1643)](https://user-images.githubusercontent.com/85144847/125632825-7b3d2356-940d-4818-b624-e625f325620c.png)
 
+• Tabla de Medición de voltaje aplicando superposición.
 
+![Captura de pantalla (1646)](https://user-images.githubusercontent.com/85144847/125634045-53d70b6b-4f1b-4ae8-8c76-904a17fba49d.png)
+
+• Tabla de Medición de corriente aplicando superposición.
+
+![Captura de pantalla (1648)](https://user-images.githubusercontent.com/85144847/125634659-89068a32-098c-4dc4-87d4-7a70be47e0f4.png)
 
 5. VIDEO DE YOUTUBE
 
