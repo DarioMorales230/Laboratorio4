@@ -65,11 +65,25 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 •	Como podemos darnos cuenta en este caso Ix = 0 porque al momento de cortocircuitar la fuente de 12 voltios la resistencia de 470 ohmios por donde pasaba dicha corriente desapareció. 
 
+4.3.	CASO B:
 
+•	En este caso es igualito al anterior con la diferencia que ahora tomaremos solamente la fuente de 12 voltios y cortocircuitaremos la fuente de 20 voltios esto con la finalidad de una mejor apreciación y respectivo cálculo, al momento de realizar lo señalado todo lo que esté conectado a dicha fuente se eliminara es decir dejara de pasar corriente eléctrica. 
 
+![image](https://user-images.githubusercontent.com/85144847/125589472-af006878-bab0-4978-a308-c4fd189af244.png)
 
+•	El circuito quedaría así quitando todo lo cortocircuitado.
 
+![image](https://user-images.githubusercontent.com/85144847/125589510-5ef029e4-f06a-4273-8624-1470d156cdc4.png)
 
+![Captura de pantalla (1638)](https://user-images.githubusercontent.com/85144847/125589712-2777bc36-e620-4f65-847e-471d28a45dd3.png)
+
+![Captura de pantalla (1639)](https://user-images.githubusercontent.com/85144847/125589717-b55d3b05-3ff6-4a39-bd64-ac3d38bbd0a2.png)
+
+•	Encontramos la intensidad total y voltaje VA del circuito 
+
+![Captura de pantalla (1640)](https://user-images.githubusercontent.com/85144847/125589907-e46e0766-0002-4bbe-a68e-207c154ca727.png)
+
+•	Como podemos darnos cuenta en este caso Ix = 25.53 mA porque al momento de cortocircuitar la fuente de 20 voltios la resistencia de 470 ohmios no se elimino y por donde pasa la corriente Ix es por esa resistencia.
 
 
 
