@@ -18,7 +18,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 2. MARCO TEORICO
 
-
+![WhatsApp Image 2021-07-14 at 02 01 17](https://user-images.githubusercontent.com/85144847/125585789-200f995b-05c9-4296-8d62-6349eacbe57c.jpeg)
 
 3. EXPLICACION DEL LABORATORIO EN FORMA TEORICA
 
