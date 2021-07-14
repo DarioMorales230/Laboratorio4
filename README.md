@@ -33,7 +33,9 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 ![Captura de pantalla (1619)](https://user-images.githubusercontent.com/85144847/125576673-036ca238-f7b0-4c93-8852-9060fba79fb6.png)
 
+•	Para la presente practica el teorema que vamos a utilizar para su resolución es el de Superposición y para ello debemos tener algo muy en cuenta acerca del teorema y es que: 
 
+El voltaje o corriente a través de cualquier elemento del circuito puede obtenerse sumando algebraicamente todos los voltajes o corrientes individuales generados por cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.
 
 
 5. VIDEO DE YOUTUBE
