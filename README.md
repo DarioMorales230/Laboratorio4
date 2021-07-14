@@ -22,6 +22,34 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Montenegro Aguilar
 
 3. EXPLICACION DEL LABORATORIO EN FORMA TEORICA
 
+3.1. Revisar el tema a tratar con las respectivas indicaciones dadas por el docente y ver el material de experimentacion, en este caso es un circuito resistivo mixto donde nos indica que tenemos que sacar el voltaje y la intensidad de cada elemento resistivo que hay dentro del circuito.
+
+![Captura de pantalla (1620)](https://user-images.githubusercontent.com/85144847/125577883-8502d84e-8437-4b3b-b321-d6f5fe2e302d.png)
+
+3.2. Con la lectura previa y la revision de lo que debemos realizar procederemos a ver cuantos componentes tiene de forma receptora y generadora como nos indica la figura por ende nos quedaria de la siguiente forma los componentes.
+
+![Captura de pantalla (1619)](https://user-images.githubusercontent.com/85144847/125576673-036ca238-f7b0-4c93-8852-9060fba79fb6.png)
+
+3.3. Teniendo ya todos los materiales del circuito mixto nos dirigiremos a nuestro simulador que en este caso es Tinkercad que nos permite diseñar circuitos en forma pictografica con sus respectivas mediciones.
+
+https://user-images.githubusercontent.com/85144847/120495636-82a5c980-c382-11eb-806c-160ca6561319.png
+
+3.4. Una vez ya en tinkercad procederemos hacer el circuito como nos indica el material de experimentacion por ende iremos escogiendo nuestros componentes señalados anteriormente, una vez ubicados y señalados nos quedaria tipo asi el circuito sin conectar.
+
+![Captura de pantalla (1649)](https://user-images.githubusercontent.com/85144847/125635599-b4ae4a87-ba57-4001-a858-630caa5b8fce.png)
+
+3.5. Y conectando los componenetes como nos indica la guia de experimentacion nos quedaria de la siguiente manera aqui hay que tener en cuenta algo y es que nosotros debemos conectar con codigo de colores de cable es decir el color rojo va a indicar que es positvio y el color negro negativo.
+
+![Captura de pantalla (1650)](https://user-images.githubusercontent.com/85144847/125635838-f1e13021-13f1-49ad-b918-09f47d5e9bd6.png)
+
+3.6. Procederemos a medir con ayuda de nuestro multimetro los respectivos valores de corriente electrica que tenemos en el circuito por mallas y ramas.
+
+![Captura de pantalla (1653)](https://user-images.githubusercontent.com/85144847/125637989-081f0b1b-828f-485f-abda-29f3241be9df.png)
+![Captura de pantalla (1651)](https://user-images.githubusercontent.com/85144847/125638012-90a2e8e1-1e83-43f5-9c65-0e744e0a8e4c.png)
+![Captura de pantalla (1652)](https://user-images.githubusercontent.com/85144847/125638017-91d30719-fbe8-4e52-a19d-ecc7ce40a63e.png)
+
+
+
 
 4. RESOLUCION DEL LABORATORIO EN FORMA MATEMATICA
 
