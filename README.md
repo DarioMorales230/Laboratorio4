@@ -81,7 +81,7 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 •	Encontramos la intensidad total y voltaje VA del circuito 
 
-![Captura de pantalla (1640)](https://user-images.githubusercontent.com/85144847/125589907-e46e0766-0002-4bbe-a68e-207c154ca727.png)
+![Captura de pantalla (1642)](https://user-images.githubusercontent.com/85144847/125628792-910179a4-bfef-4cf9-a918-4e9cc270f8b2.png)
 
 •	Como podemos darnos cuenta en este caso Ix = 25.53 mA porque al momento de cortocircuitar la fuente de 20 voltios la resistencia de 470 ohmios no se elimino y por donde pasa la corriente Ix es por esa resistencia.
 
