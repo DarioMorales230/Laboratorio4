@@ -46,7 +46,11 @@ https://user-images.githubusercontent.com/85144847/120495636-82a5c980-c382-11eb-
 
 ![Captura de pantalla (1653)](https://user-images.githubusercontent.com/85144847/125637989-081f0b1b-828f-485f-abda-29f3241be9df.png)
 ![Captura de pantalla (1651)](https://user-images.githubusercontent.com/85144847/125638012-90a2e8e1-1e83-43f5-9c65-0e744e0a8e4c.png)
-![Captura de pantalla (1652)](https://user-images.githubusercontent.com/85144847/125638017-91d30719-fbe8-4e52-a19d-ecc7ce40a63e.png)
+
+•	Para esta medicion de corriente vamos a tener algo muy en cuenta y esque vamos a medir el voltaje solicitado el cual es Ix.
+
+![Captura de pantalla (1654)](https://user-images.githubusercontent.com/85144847/125638583-c20b14fe-8285-4a3b-8190-2738ec7597ba.png)
+
 
 
 
