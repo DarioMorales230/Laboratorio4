@@ -61,7 +61,7 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 •	Encontramos la intensidad total y voltaje VA del circuito 
 
-![Captura de pantalla (1633)](https://user-images.githubusercontent.com/85144847/125585589-d9d45b5b-6cf6-4a0d-a2bc-e383498811b7.png)
+![Captura de pantalla (1641)](https://user-images.githubusercontent.com/85144847/125627675-12199a6a-e946-4533-9757-0ddd76cb0e54.png)
 
 •	Como podemos darnos cuenta en este caso Ix = 0 porque al momento de cortocircuitar la fuente de 12 voltios la resistencia de 470 ohmios por donde pasaba dicha corriente desapareció. 
 
