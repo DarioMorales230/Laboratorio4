@@ -43,12 +43,27 @@ El voltaje o corriente a través de cualquier elemento del circuito puede obtene
 
 ![image](https://user-images.githubusercontent.com/85144847/125579381-19bcf863-4775-436d-bc12-f3a89419f120.png)
 
+4.1. Estableceremos dos casos de circuito el A y B esto con el fin de poder aplicar correctamente el teorema de superposición en cada caso una fuente estará cortocircuitada.
 
+4.2. CASO A:
 
+•	En este caso tomaremos solamente la fuente de 20 voltios y cortocircuitaremos la fuente de 12 voltios esto con la finalidad de una mejor apreciación y respectivo cálculo, al momento de realizar lo señalado todo lo que este conectado a dicha fuente se eliminara es decir dejara de pasar corriente eléctrica. 
 
+![image](https://user-images.githubusercontent.com/85144847/125585264-3f5c7829-07f3-4883-b762-9c686f04bf76.png)
 
+•	El circuito quedaría así quitando todo lo cortocircuitado.
 
+![image](https://user-images.githubusercontent.com/85144847/125585321-3fde281f-fdb3-44e2-ad79-6c473932fe57.png)
 
+•	Ahora resolviendo el circuito por resistencias equivalente nos queda
+
+![Captura de pantalla (1632)](https://user-images.githubusercontent.com/85144847/125585447-1952d26c-39e8-4c80-bae4-897915f13c39.png)
+
+•	Encontramos la intensidad total y voltaje VA del circuito 
+
+![Captura de pantalla (1633)](https://user-images.githubusercontent.com/85144847/125585589-d9d45b5b-6cf6-4a0d-a2bc-e383498811b7.png)
+
+•	Como podemos darnos cuenta en este caso Ix = 0 porque al momento de cortocircuitar la fuente de 12 voltios la resistencia de 470 ohmios por donde pasaba dicha corriente desapareció. 
 
 
 
