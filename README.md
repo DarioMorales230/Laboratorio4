@@ -51,9 +51,20 @@ https://user-images.githubusercontent.com/85144847/120495636-82a5c980-c382-11eb-
 
 ![Captura de pantalla (1654)](https://user-images.githubusercontent.com/85144847/125638583-c20b14fe-8285-4a3b-8190-2738ec7597ba.png)
 
+3.7. Para la siguiente medicion ya no sera de corriente sino ahora del voltaje VA solicitado por la practica.
 
+![Captura de pantalla (1655)](https://user-images.githubusercontent.com/85144847/125639242-8c882fb7-ebe6-4676-a9ae-6189e7fb012c.png)
 
+3.8. Medicion del voltaje VA cuando cortocircuitamos la fuente de 12 voltios en este caso su intensidad Ix = 0 porque se elimina la rama por donde pasa esa corriente.
 
+![Captura de pantalla (1656)](https://user-images.githubusercontent.com/85144847/125639874-6c050350-b966-4a80-9421-6666b93a7df9.png)
+
+3.9. Medicion del voltaje VA y corriente Ix cuando cortocircuitamos la fuente de 20 voltios en este caso su intensidad Ix si tendra valor porque no se elimina la rama por donde pasa esa corriente.
+
+![Captura de pantalla (1657)](https://user-images.githubusercontent.com/85144847/125640865-8ee85ded-1c94-4df5-84ad-3bfa32f3aed3.png)
+![Captura de pantalla (1659)](https://user-images.githubusercontent.com/85144847/125640877-b4bc9244-c7d4-481c-8131-dbe0a7b7cecc.png)
+
+3.9. Finalmente podemos concluir esta practica teniendo en cuenta todos esos casos analizados del Teorema de Superposicion.
 
 4. RESOLUCION DEL LABORATORIO EN FORMA MATEMATICA
 
